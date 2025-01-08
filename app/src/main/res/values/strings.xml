@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">7s21_TSDMH_ProyectoFinal_QACJ</string>
+    <string name="titulo1">Datos de la Agenda</string>
+    <string name="btninserta">Insertar Registro</string>
+    <string name="btnsalir">Salir</string>
+
+    <string name="titulo2">Registro Nuevo</string>
+    <string name="lnum">Número</string>
+    <string name="lnombre">Nombre</string>
+    <string name="ledad">Edad</string>
+    <string name="lcorreo">Correo</string>
+    <string name="btnregistra">Registrar</string>
+    <string name="btnterminar">Finalizar</string>
+    <string name="btnactualizar">Actualizar</string>
+
+    <string name="titulo3">Actualizar Registro</string>
+    <string name="btneliminar">Eliminar</string>
+</resources>
